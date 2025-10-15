@@ -30,7 +30,7 @@ jobs:
       - name: Instalar Dependências
         run: npm install
 
-      - name: Rodar Testes (Opcional)
+      #- name: Rodar Testes (Opcional)
         # Se você tiver testes configurados, descomente esta linha
         # run: npm test --if-present 
 
